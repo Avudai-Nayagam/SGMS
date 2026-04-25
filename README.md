@@ -43,9 +43,8 @@ The project follows a modular Java Swing/AWT structure:
    * Right-click and select **Run File**.
 
 ## 🖥 Screenshots
-<img width="1253" height="705" alt="image" src="https://github.com/user-attachments/assets/cb367547-93f4-4c10-940c-f003f9b7957f" />
-<img width="1253" height="705" alt="image" src="https://github.com/user-attachments/assets/c9394b76-acfd-46f3-9bce-3d6c99f8d3ca" />
-<img width="1253" height="705" alt="image" src="https://github.com/user-attachments/assets/82d132a0-fd38-4e08-a403-9ab7a5333a39" />
+
+
 
 
 ---
