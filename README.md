@@ -1,4 +1,4 @@
-<img width="1380" height="776" alt="image" src="https://github.com/user-attachments/assets/de456de2-a705-426a-b928-2b8d6bc482dd" /># SGMS - Sports Group Management System
+# SGMS - Sports Group Management System
 
 SGMS is a robust Java-based management portal designed to streamline the organization of sports events. It provides dedicated interfaces for administrators, players, and team managers to interact with game schedules, results, and announcements.
 
@@ -44,7 +44,9 @@ The project follows a modular Java Swing/AWT structure:
 
 ## 🖥 Screenshots
 
-
+<img width="1253" height="705" alt="image" src="https://github.com/user-attachments/assets/c9394b76-acfd-46f3-9bce-3d6c99f8d3ca" />
+<img width="1253" height="705" alt="image" src="https://github.com/user-attachments/assets/82d132a0-fd38-4e08-a403-9ab7a5333a39" />
+<img width="1253" height="705" alt="image" src="https://github.com/user-attachments/assets/cb367547-93f4-4c10-940c-f003f9b7957f" />
 
 
 ---
